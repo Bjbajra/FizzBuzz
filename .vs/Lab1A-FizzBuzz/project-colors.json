@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f81c8f6-f820-4836-9178-8cc19214a06c": {
+      "ProjectGuid": "1f81c8f6-f820-4836-9178-8cc19214a06c",
+      "DisplayName": "Lab1A-FizzBuzz.Tests",
+      "ColorIndex": 0
+    },
+    "9797301f-d687-49a2-aadb-7be261db86a6": {
+      "ProjectGuid": "9797301f-d687-49a2-aadb-7be261db86a6",
+      "DisplayName": "Lab1A-FizzBuzz",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

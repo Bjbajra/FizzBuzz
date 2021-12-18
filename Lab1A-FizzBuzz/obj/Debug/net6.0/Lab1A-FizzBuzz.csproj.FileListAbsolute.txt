@@ -1,0 +1,15 @@
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\bin\Debug\net6.0\Lab1A-FizzBuzz.exe
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\bin\Debug\net6.0\Lab1A-FizzBuzz.deps.json
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\bin\Debug\net6.0\Lab1A-FizzBuzz.runtimeconfig.json
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\bin\Debug\net6.0\Lab1A-FizzBuzz.dll
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\bin\Debug\net6.0\ref\Lab1A-FizzBuzz.dll
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\bin\Debug\net6.0\Lab1A-FizzBuzz.pdb
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\obj\Debug\net6.0\Lab1A-FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\obj\Debug\net6.0\Lab1A-FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\obj\Debug\net6.0\Lab1A-FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\obj\Debug\net6.0\Lab1A-FizzBuzz.AssemblyInfo.cs
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\obj\Debug\net6.0\Lab1A-FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\obj\Debug\net6.0\Lab1A-FizzBuzz.dll
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\obj\Debug\net6.0\ref\Lab1A-FizzBuzz.dll
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\obj\Debug\net6.0\Lab1A-FizzBuzz.pdb
+C:\Users\bijay\source\repos\Lab1A-FizzBuzz\Lab1A-FizzBuzz\obj\Debug\net6.0\Lab1A-FizzBuzz.genruntimeconfig.cache
